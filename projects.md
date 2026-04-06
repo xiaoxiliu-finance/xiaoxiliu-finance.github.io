@@ -49,24 +49,34 @@ shape fragility, resilience, and macro-financial spillovers.
   <div class="project-meta">
     Credit Misallocation, Bank Balance Sheets, and Disinflationary Effects (2026)
   </div>
-  This project examines how the persistence of zombie firms reshapes macroeconomic outcomes in Asia. 
-  Economies with a higher zombie share experience weaker GDP growth and sustained disinflation. 
-  These effects spill across borders through trade linkages, transmitting deflationary pressure 
-  beyond national boundaries. At the micro level, banks with weaker capital positions and higher 
-  balance-sheet stress are more likely to evergreen loans to distressed firms, sustaining 
-  non-viable businesses and delaying necessary restructuring.
+  This project examines how zombie firms—sustained by bank evergreening—reshape macroeconomic
+  outcomes across 10 Asian emerging market economies. Domestically, higher zombie prevalence
+  depresses GDP growth, lowers inflation, and crowds out healthy firms through credit misallocation.
+  These distortions spill across borders through trade: advanced economies more exposed to Asian
+  intermediate goods imports experience lower inflation and slower growth when Asian zombie shares rise.
+  The banking channel, by contrast, does not transmit—foreign banks absorb zombie exposure
+  without balance sheet deterioration, insulating the international financial system.
   <div class="project-insight">
-    Key insight: When weak banks roll over weak firms, short-term stability can translate 
-    into slower growth, persistent disinflation, and accumulated systemic risk.
+    Key insight: Zombie distortions travel through supply chains, not capital markets—
+    arriving in advanced economies as a disinflationary force outside the reach of
+    bank-focused financial surveillance.
   </div>
 </div>
 
   <div class="project-card">
     <h3>China’s Global Financial Linkages and Spillovers</h3>
     <div class="project-meta">IMF & HKMA collaboration — multi-layer investment networks (2026)</div>
-    Using bilateral FDI, portfolio, and banking data, this paper maps China’s evolving position in global finance.
+    Using bilateral FDI, portfolio, and banking data, this paper maps the evolving structure
+    of global cross-border investment networks across 185 countries. Network centrality generates
+    a stability-growth tradeoff: hub countries experience lower growth but greater crisis resilience.
+    The US exorbitant privilege in attracting capital has grown since 2015, while portfolio investment
+    has become increasingly concentrated around a narrowing set of creditor hubs and a single dominant debtor.
+    Current account balances have decoupled from gross financial positions—network centrality,
+    not the current account, drives gross position accumulation.
     <div class="project-insight">
-      Key insight: Global finance is increasingly shaped by network structure, not just volume.
+      Key insight: Network position in global finance is structural and path-dependent.
+      Gross positions and centrality—not current account balances—are the reliable lens
+      for tracking where vulnerabilities build and where shocks propagate.
     </div>
   </div>
 
