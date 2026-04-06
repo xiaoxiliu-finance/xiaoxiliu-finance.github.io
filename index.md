@@ -39,7 +39,7 @@ My work sits at the intersection of:
   *IMF Economic Review*, 2021
 
 - **The Impact of Introducing a (Nearly) Redundant Security: Evidence from Malaysian Corporate Bonds**  
-  *Journal of Financial Economics*, 2nd round R&R, 2026
+  *Journal of Financial Economics*, Accepted, 2026
 
 ---
 
