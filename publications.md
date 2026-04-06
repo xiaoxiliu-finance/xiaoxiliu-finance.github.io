@@ -40,7 +40,7 @@ BIS Quarterly Review, September 2020
 
 ### The Impact of Introducing a (Nearly) Redundant Security: Evidence from Malaysian Corporate Bonds  
 2026  
-<span class="pub-highlight">2nd Round R&R, Journal of Financial Economics</span>
+<span class="pub-highlight">Accepted, Journal of Financial Economics</span>
 
 ---
 
